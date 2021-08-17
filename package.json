@@ -1,5 +1,5 @@
 {
-  "name": "ts-utils",
+  "name": "ts-tls",
   "version": "1.0.0",
   "description": "",
   "main": "./lib/index.js",
